@@ -1,0 +1,93 @@
+.App {
+
+  background-color: #fefcfb;
+
+  text-align: center;
+
+  margin-bottom: 0;
+  margin-top: 0;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  color: #0a1128;
+
+}
+
+
+.projectList{
+
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  display:list-item;
+
+}
+
+.Title{
+
+  margin-left: auto;
+  margin-right: auto;
+
+ 
+
+}
+
+
+.CardButton{
+
+ 
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+
+.CardText{
+
+  margin-bottom: 2rem;
+
+
+}
+
+.Projectcard{
+
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+
+  background-color: #fefcfb;
+  
+
+  border-style: solid;
+  
+  border-radius: 1rem;
+
+  border-color: #8c1c13;
+
+
+}
+
+.CardImage{
+
+  max-width: 20rem;
+  max-height: 20rem;
+
+  margin-top: 3rem;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 5%;
+
+  object-fit:scale-down;
+
+
+
+}
+
